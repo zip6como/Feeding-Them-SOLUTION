@@ -119,3 +119,4 @@
 
 Made by zip6como
 If the game updates, tell me by opening an issue.
+If this helped you, I would be happy if you gave this repo a star.
