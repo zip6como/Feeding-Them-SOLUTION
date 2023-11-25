@@ -1,5 +1,5 @@
 # Feeding-Them-SOLUTION
-If this helped you, I would be happy if you starred this repo.
+If this helped you, I would be happy if you gave this repo a star.
 
 The solution is in the Feeding Them.txt file.
 
